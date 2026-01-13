@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATIO Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chatbot-container">
+        <div class="chatbot-header">
+            <div class="header-content">
+                <h2>ATIO Chatbot</h2>
+                <p>Fragen Sie mich über ATIO und unsere IoT-Lösungen</p>
+            </div>
+            <button class="close-btn" onclick="toggleChatbot()">✕</button>
+        </div>
+        
+        <div class="chatbot-messages" id="messages">
+            <div class="message bot-message">
+                <div class="message-content">
+                    <p>Hallo! 👋 Ich bin der ATIO Chatbot. Wie kann ich dir heute helfen? Frag mich über unsere IoT-Lösungen, Dienstleistungen oder kontaktiere uns!</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="chatbot-input-area">
+            <div class="loading-indicator" id="loading" style="display: none;">
+                <span></span><span></span><span></span>
+            </div>
+            <div class="input-wrapper">
+                <input 
+                    type="text" 
+                    id="userInput" 
+                    class="chatbot-input" 
+                    placeholder="Schreiben Sie Ihre Frage..."
+                    onkeypress="handleKeyPress(event)"
+                >
+                <button class="send-btn" onclick="sendMessage()">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M2 10L18 2L10 18L8 12L2 10Z" fill="currentColor"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        
+        <div class="chatbot-footer">
+            <small>Powered by ATIO & Ollama</small>
+        </div>
+    </div>
+
+    <!-- Floating Button -->
+    <button class="chatbot-toggle" id="chatbotToggle" onclick="toggleChatbot()">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+        </svg>
+    </button>
+
+    <script src="script.js"></script>
+</body>
+</html>

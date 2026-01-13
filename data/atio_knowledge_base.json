@@ -1,0 +1,132 @@
+{
+  "company": {
+    "name": "atio",
+    "tagline": "Ihr Partner für Industrial IoT Projekte & Software",
+    "description": "Bei atio befähigen wir Unternehmen, ihre Digitalisierungsstrategieziele zu erreichen, indem wir innovative Lösungen anbieten, die auf ihre individuellen Anforderungen zugeschnitten sind. Unter Einsatz von Industrie 5.0, IoT und der Digitalisierung und Vernetzung von Maschinen arbeitet unser engagiertes Expertenteam eng mit Ihrer Organisation zusammen.",
+    "contact": {
+      "address": "Karlstraße 37, 89073 Ulm",
+      "phone": "+49 731 96 33 99-0",
+      "email": "info@atio.de"
+    },
+    "social": {
+      "twitter": "https://twitter.com/atio",
+      "linkedin": "https://linkedin.com/company/atio"
+    }
+  },
+  "solutions": [
+    {
+      "id": "digital_factory_planning",
+      "name": "Digitale Fabrikplanung",
+      "description": "Die ständige Optimierung von bestehenden Fertigungshallen, das Ersetzen und Erneuern von Produktionsanlagen und -maschinen lässt sich anhand von digitalen Modellen der Fertigung erheblich einfach gestalten und im Vorfeld simulieren.",
+      "key_features": [
+        "Vollständige Erfassung und Digitalisierung von Werken, Fertigungshallen und Anlagen",
+        "Laserscanning für präzise Iststanderfassung",
+        "3D-Modellierung als Basis für Änderungen",
+        "AR/MR-Szenarien für Fabrikplanung",
+        "Digitale Modelle für Simulation und Optimierung"
+      ],
+      "benefits": [
+        "Schnellere und effektivere Reaktion auf Änderungsanforderungen",
+        "Bessere Planung von Fertigungsänderungen in der realen Welt",
+        "Verbesserte Visualisierung und Kommunikation"
+      ]
+    },
+    {
+      "id": "digital_factory_solutions",
+      "name": "Lösungen für die digitale Fabrik",
+      "description": "Mit unseren Softwareprodukten des führenden Herstellers für IoT Software können wir unterschiedliche Anwendungsszenarien implementieren. Unser Fokus liegt auf der Abbildung der Digitalen Fabrik, von der Erfassung und Digitalisierung bestehender Fabriken, bis hin zur Vernetzung der in der Fertigung eingesetzten Equipments.",
+      "features": [
+        {
+          "name": "Betriebskennzahlen",
+          "description": "Transparenz über die Betriebs-, Anlagen und Produktionskennzahlen"
+        },
+        {
+          "name": "Echtzeit Analyse",
+          "description": "Bereitstellung von Informationen zur richtigen Zeit am richtigen Ort innerhalb der Fertigung"
+        },
+        {
+          "name": "Mitarbeiterproduktivität",
+          "description": "Unterstützung der Mitarbeiter bei der Durchführung der Produktionsprozesse durch den Einsatz modernster Augmented Reality Technologien"
+        }
+      ]
+    },
+    {
+      "id": "digital_service_solutions",
+      "name": "Lösungen für den digitalen Service",
+      "description": "Über die Vernetzung Ihrer Maschinen im Feld erhalten Sie Echtzeiteinblicke in den Zustand Ihrer Produkte, können Analysen erstellen und im Vorfeld erkennen, ob an einer Maschine oder Anlage Probleme entstehen.",
+      "capabilities": [
+        "Echtzeitüberwachung von Maschinen und Anlagen",
+        "Proaktive Problemerkennung",
+        "Remote Guidance Lösungen für Techniker",
+        "Globale Zusammenarbeit von Experten",
+        "Unterstützung bei Inbetriebnahme und Schulung",
+        "AR/MR-gestützte Fernunterstützung"
+      ]
+    },
+    {
+      "id": "ar_mr_solutions",
+      "name": "Augmented & Mixed Reality Lösungen",
+      "description": "Auf Basis unserer Software Produkte bieten wir Ihnen den Aufbau, die Erstellung und Entwicklung ihrer individuellen AUGMENTED und MIXED REALITY Lösung an.",
+      "benefits": [
+        "Hochgradig visuelle Methoden zur Präsentation digitaler Informationen",
+        "Vernetzung und Zusammenarbeit über mehrere Standorte hinweg",
+        "Einfach nutzbare digitale Arbeitsanweisungen",
+        "Reduktion von Schulungs- und Serviceaufwand",
+        "Real-time Informationen für Mitarbeiter",
+        "Beschleunigung technischer Prozesse"
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "name": "Software",
+      "description": "Wir bauen auf eine Erfahrung aus über 20 Jahren im CAD/CAM/PLM Umfeld und unseren Projekterfahrungen in den Bereichen Maschinen-/Anlagenbau, Fabrikplanung und Bauwesen. Ständige Weiterentwicklung ist bei der schnell voranschreitenden Digitalisierung unerlässlich. Als Partnerunternehmen namhafter Softwarehersteller bieten wir Ihnen zertifiziertes Fachwissen zu unseren Partnerprodukten."
+    },
+    {
+      "name": "Beratung und Implementierung",
+      "description": "Wir stellen den kurzfristigen Projekterfolg in unseren Fokus. Gemeinsam mit Ihnen identifizieren wir die User Stories, die Ihnen einen schnellen Projekterfolg und somit eine hohe Akzeptanz und einen schnellen Nutzen der Lösung ermöglichen. Mit unserer Expertise unterstützen wir Sie über die gesamte digitale Prozesskette von der Projektidee bis zum Support."
+    },
+    {
+      "name": "Schulung",
+      "description": "Während unseren Projekten entwickeln wir ein auf unsere Kunden zugeschnittenes Schulungskonzept. Neben den Standardschulungen können wir Schulungen wahlweise in den Räumlichkeiten unserer Kunden oder an einem unserer eigenen bzw. Partnerstandorte durchführen."
+    },
+    {
+      "name": "Support",
+      "description": "Unser Support-Team steht ihnen deutschlandweit kompetent zur Verfügung unabhängig davon ob Sie sich vor, während oder nach der Software-Implementierung befinden."
+    }
+  ],
+  "partnerships": [
+    {
+      "name": "PTC",
+      "status": "Silber Partner",
+      "description": "atio ist als PTC Silber Partner autorisierter Händler für die umfassenden IoT-Softwarelösungen von PTC. Durch unseren Silber-Status profitieren Sie von hoher Kompetenz, zertifiziertem Fachwissen und umfassender Expertise.",
+      "support_areas": [
+        "Augmented & Mixed Reality Lösungen",
+        "IoT Lösungskonzeption und Implementierung im Engineering und in der Produktentwicklung",
+        "IoT Lösungskonzeption in den Bereichen Gebäudetechnik und Bau"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Was ist atio?",
+      "answer": "atio ist ein Unternehmen, das sich auf Industrial IoT Projekte und Software spezialisiert hat. Wir befähigen Unternehmen, ihre Digitalisierungsziele durch innovative Lösungen zu erreichen."
+    },
+    {
+      "question": "Welche Lösungen bietet atio an?",
+      "answer": "atio bietet vier Hauptlösungen: Digitale Fabrikplanung, Lösungen für die digitale Fabrik, Lösungen für den digitalen Service und Augmented & Mixed Reality Lösungen."
+    },
+    {
+      "question": "Wie kann ich atio kontaktieren?",
+      "answer": "Sie können atio unter folgenden Kontaktdaten erreichen: Telefon: +49 731 96 33 99-0, E-Mail: info@atio.de, Adresse: Karlstraße 37, 89073 Ulm"
+    },
+    {
+      "question": "Ist atio ein zertifizierter Partner?",
+      "answer": "Ja, atio ist ein PTC Silber Partner und autorisierter Händler für IoT-Softwarelösungen von PTC."
+    },
+    {
+      "question": "Bietet atio Schulungen an?",
+      "answer": "Ja, atio entwickelt während ihrer Projekte ein auf ihre Kunden zugeschnittenes Schulungskonzept. Schulungen können in den Räumlichkeiten der Kunden oder an eigenen Partnerstandorten durchgeführt werden."
+    }
+  ]
+}
